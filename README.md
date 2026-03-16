@@ -25,7 +25,7 @@ Esse repositório está em constante crescimento. À medida que eu avanço nos e
 Você pode me encontrar em:
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-dias-dos-santos-nascimento/)
-- [GitHub](https://github.com/RyanzinhoDias)
+- [GitHub](https://github.com/RyanDiaas)
 - [E-mail](ryanddsn0@gmail.com)
 
 ---
